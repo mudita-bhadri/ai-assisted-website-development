@@ -3,11 +3,11 @@
 ## Project Overview
 Designed and developed a responsive website for Bollywood Beats Vienna, a dance company, translating stakeholder requirements into a functional digital experience.
 
-## My Contribution
+## What I Built
 - Translated stakeholder requirements into website structure, content, and user flows.
 - Built and refined responsive layouts using HTML, CSS, and JavaScript.
 - Used GitHub Copilot and OpenAI Codex to support development, testing, and iterative improvements.
-- Managed source control using Git and GitHub and deployed the website for public access.
+- Managed version control using Git and GitHub and deployed the website for public access.
 
 ## Key Features
 - Responsive design for desktop and mobile devices.
